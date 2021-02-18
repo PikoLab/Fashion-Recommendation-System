@@ -7,4 +7,4 @@ The Fashion Recommendation System is built to provie people with an AI Stylist s
 
 Japanese Street Style is one of the top fashion trends in Asia, especially in Taiwan. This project makes a recommendation system according to the data source posted by TOP100 women and TOP100 men on the biggest online stylist review website and on the biggest online fashion retailer, wear and zozotwon. 
 
-### `**source: https://wear.jp/ranking/user/**`
+### `source: https://wear.jp/ranking/user/`
